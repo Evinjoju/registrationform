@@ -1,0 +1,59 @@
+body {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-image: url('https://europeanschooluxembourg2.eu/wp-content/uploads/education_button2.jpg'); 
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+.page-container {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  background-size: cover;
+  background-position: center;
+}
+
+.submit-button {
+  background-color: #020335;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.submit-button:hover {
+  background-color: #15013d;
+}
+
+.cancel-button {
+  background-color: #230459;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.cancel-button:hover {
+  background-color: #10013d;
+  color: white;
+}
+.ev{
+  color: #132414;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.namef{
+  border-radius: 30px;
+}
+
+
+
